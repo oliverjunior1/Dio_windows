@@ -1,0 +1,16 @@
+{
+"_id":1,
+"nome":"Joaquim Rodrigues de Oliveira Junior",
+"data_nascimento":"1983-01-30",
+"endereco":"Rua Prof Eli Rosa, 240...",
+"enderecos": [{
+"logradouro": "Via Jose J",
+"numero": 123,
+"bairro": "Nossa Sra D'abadia",
+"cidade": "Anapolis"
+}
+],
+"interesses":["games","computer scyence","RPG Games"],
+
+'reversas':[1,2]
+}
