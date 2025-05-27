@@ -11,7 +11,7 @@ except IOError as exc:
 
 # try:
 #     with open(ROOT_PATH/"arquivo-utf-8.txt", "w", encoding="utf-8") as arquivo:
-#         arquivo.write("Aprendendo a manipular arquivos utilizando Python")
+#         arquivo.write("Aprendendo a manipular arquivos utilizando 1_Python")
 # except IOError:
 #     print(f"Erro ao abrir o arquivo {exc}")
 
