@@ -13,4 +13,4 @@ def inserir_registro(conexao, cursor, nome, email):
     cursor.execute("INSERT INTO clientes (nome, email) VALUES (?,?);", data)
     conexao.commit()
 
-def atualizar_registro(conexao, cursor, nome, email, id):
+# def atualizar_registro(conexao, cursor, nome, email, id):
