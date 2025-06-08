@@ -5,4 +5,4 @@ app.run(debug=True)
 
 @app.route("/")
 def hello_world():
-    return {"Message":"Jesus is the light of the World!", app:"Hello"}
+    return {"Message":"Jesus is the light of the World!"}
